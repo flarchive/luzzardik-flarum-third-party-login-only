@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of luzzardik/flarum-third-party-login-only.** Not for installation: use [Packagist](https://packagist.org/packages/luzzardik/flarum-third-party-login-only) or the [upstream repository](https://github.com/luzzardik/flarum-third-party-login-only).
 
-**0** versions archived · Latest: [`2.0.10`](https://github.com/flarchive/luzzardik-flarum-third-party-login-only/tree/archive/v2.0.10) · License: `MIT` · Flarum: `^2.0`
+**3** versions archived · Latest: [`2.0.10`](https://github.com/flarchive/luzzardik-flarum-third-party-login-only/tree/archive/v2.0.10) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `2.0.10` | 2026-07-29 | `^2.0` | [Browse](https://github.com/flarchive/luzzardik-flarum-third-party-login-only/tree/archive/v2.0.10) |
+| `2.0.8` | 2026-07-29 | `^2.0` | [Browse](https://github.com/flarchive/luzzardik-flarum-third-party-login-only/tree/archive/v2.0.8) |
+| `2.0.9` | 2026-07-29 | `^2.0` | [Browse](https://github.com/flarchive/luzzardik-flarum-third-party-login-only/tree/archive/v2.0.9) |
 
 Catalog entry: [packages/luzzardik-flarum-third-party-login-only.json](https://github.com/flarchive/archive-index/blob/main/packages/luzzardik-flarum-third-party-login-only.json)
 
